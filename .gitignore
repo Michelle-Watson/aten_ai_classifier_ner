@@ -1,0 +1,66 @@
+# Directories to ignore
+.venv/
+aten_ai_classifier_ner/
+clinical_ner_final_model/
+clinical_ner_model/
+clinical_ner_model_v2/
+OG_post/
+pretrained/
+wandb/
+
+# Standard Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+venv/
+ENV/
+env/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment files
+.env
+.venv
+env.txt
+
+# Training artifacts
+checkpoints/
+*.h5
+*.pth
+*.pt
+*.bin
+*.index

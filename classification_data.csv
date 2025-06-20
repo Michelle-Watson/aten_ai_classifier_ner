@@ -1,0 +1,1001 @@
+id,text,label
+1,DrugZ caused severe rashes in some participants.,Adverse Effect
+2,No significant side effects were observed during the trial.,Positive Outcome
+3,Participants were monitored every two weeks.,Neutral Observation
+4,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+5,Patients were instructed to maintain a food diary.,Neutral Observation
+6,Patients were instructed to maintain a food diary.,Neutral Observation
+7,Participants were monitored every two weeks.,Neutral Observation
+8,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+9,Patients were instructed to maintain a food diary.,Neutral Observation
+10,DrugZ caused severe rashes in some participants.,Adverse Effect
+11,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+12,The study excluded patients with pre-existing conditions.,Neutral Observation
+13,No significant side effects were observed during the trial.,Positive Outcome
+14,The study excluded patients with pre-existing conditions.,Neutral Observation
+15,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+16,The study excluded patients with pre-existing conditions.,Neutral Observation
+17,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+18,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+19,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+20,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+21,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+22,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+23,Participants were monitored every two weeks.,Neutral Observation
+24,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+25,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+26,The patient experienced nausea after taking DrugX.,Adverse Effect
+27,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+28,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+29,Data collection was completed over a six-month period.,Neutral Observation
+30,No significant side effects were observed during the trial.,Positive Outcome
+31,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+32,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+33,Participants were monitored every two weeks.,Neutral Observation
+34,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+35,Participants were monitored every two weeks.,Neutral Observation
+36,No significant side effects were observed during the trial.,Positive Outcome
+37,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+38,Data collection was completed over a six-month period.,Neutral Observation
+39,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+40,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+41,Data collection was completed over a six-month period.,Neutral Observation
+42,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+43,The patient experienced nausea after taking DrugX.,Adverse Effect
+44,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+45,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+46,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+47,DrugZ caused severe rashes in some participants.,Adverse Effect
+48,Data collection was completed over a six-month period.,Neutral Observation
+49,The study excluded patients with pre-existing conditions.,Neutral Observation
+50,The patient experienced nausea after taking DrugX.,Adverse Effect
+51,Data collection was completed over a six-month period.,Neutral Observation
+52,Enrollment criteria included age and weight specifications.,Neutral Observation
+53,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+54,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+55,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+56,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+57,DrugZ caused severe rashes in some participants.,Adverse Effect
+58,Participants were monitored every two weeks.,Neutral Observation
+59,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+60,Patients were instructed to maintain a food diary.,Neutral Observation
+61,The patient experienced nausea after taking DrugX.,Adverse Effect
+62,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+63,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+64,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+65,Data collection was completed over a six-month period.,Neutral Observation
+66,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+67,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+68,The patient experienced nausea after taking DrugX.,Adverse Effect
+69,Participants were monitored every two weeks.,Neutral Observation
+70,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+71,DrugZ caused severe rashes in some participants.,Adverse Effect
+72,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+73,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+74,Participants were monitored every two weeks.,Neutral Observation
+75,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+76,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+77,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+78,Enrollment criteria included age and weight specifications.,Neutral Observation
+79,DrugZ caused severe rashes in some participants.,Adverse Effect
+80,Participants were monitored every two weeks.,Neutral Observation
+81,Participants were monitored every two weeks.,Neutral Observation
+82,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+83,The study excluded patients with pre-existing conditions.,Neutral Observation
+84,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+85,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+86,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+87,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+88,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+89,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+90,Data collection was completed over a six-month period.,Neutral Observation
+91,No significant side effects were observed during the trial.,Positive Outcome
+92,Enrollment criteria included age and weight specifications.,Neutral Observation
+93,The study excluded patients with pre-existing conditions.,Neutral Observation
+94,Enrollment criteria included age and weight specifications.,Neutral Observation
+95,No significant side effects were observed during the trial.,Positive Outcome
+96,Participants were monitored every two weeks.,Neutral Observation
+97,The study excluded patients with pre-existing conditions.,Neutral Observation
+98,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+99,The study excluded patients with pre-existing conditions.,Neutral Observation
+100,DrugZ caused severe rashes in some participants.,Adverse Effect
+101,The study excluded patients with pre-existing conditions.,Neutral Observation
+102,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+103,Patients were instructed to maintain a food diary.,Neutral Observation
+104,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+105,Patients were instructed to maintain a food diary.,Neutral Observation
+106,Patients were instructed to maintain a food diary.,Neutral Observation
+107,Data collection was completed over a six-month period.,Neutral Observation
+108,Data collection was completed over a six-month period.,Neutral Observation
+109,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+110,No significant side effects were observed during the trial.,Positive Outcome
+111,Participants were monitored every two weeks.,Neutral Observation
+112,Participants were monitored every two weeks.,Neutral Observation
+113,The study excluded patients with pre-existing conditions.,Neutral Observation
+114,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+115,DrugZ caused severe rashes in some participants.,Adverse Effect
+116,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+117,Data collection was completed over a six-month period.,Neutral Observation
+118,No significant side effects were observed during the trial.,Positive Outcome
+119,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+120,Enrollment criteria included age and weight specifications.,Neutral Observation
+121,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+122,Participants were monitored every two weeks.,Neutral Observation
+123,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+124,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+125,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+126,Enrollment criteria included age and weight specifications.,Neutral Observation
+127,Patients were instructed to maintain a food diary.,Neutral Observation
+128,DrugZ caused severe rashes in some participants.,Adverse Effect
+129,DrugZ caused severe rashes in some participants.,Adverse Effect
+130,No significant side effects were observed during the trial.,Positive Outcome
+131,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+132,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+133,Data collection was completed over a six-month period.,Neutral Observation
+134,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+135,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+136,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+137,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+138,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+139,Enrollment criteria included age and weight specifications.,Neutral Observation
+140,Data collection was completed over a six-month period.,Neutral Observation
+141,No significant side effects were observed during the trial.,Positive Outcome
+142,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+143,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+144,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+145,Data collection was completed over a six-month period.,Neutral Observation
+146,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+147,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+148,The study excluded patients with pre-existing conditions.,Neutral Observation
+149,The study excluded patients with pre-existing conditions.,Neutral Observation
+150,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+151,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+152,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+153,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+154,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+155,The patient experienced nausea after taking DrugX.,Adverse Effect
+156,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+157,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+158,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+159,Data collection was completed over a six-month period.,Neutral Observation
+160,The study excluded patients with pre-existing conditions.,Neutral Observation
+161,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+162,The patient experienced nausea after taking DrugX.,Adverse Effect
+163,No significant side effects were observed during the trial.,Positive Outcome
+164,DrugZ caused severe rashes in some participants.,Adverse Effect
+165,Enrollment criteria included age and weight specifications.,Neutral Observation
+166,Participants were monitored every two weeks.,Neutral Observation
+167,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+168,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+169,DrugZ caused severe rashes in some participants.,Adverse Effect
+170,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+171,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+172,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+173,Enrollment criteria included age and weight specifications.,Neutral Observation
+174,DrugZ caused severe rashes in some participants.,Adverse Effect
+175,Participants were monitored every two weeks.,Neutral Observation
+176,The patient experienced nausea after taking DrugX.,Adverse Effect
+177,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+178,Patients were instructed to maintain a food diary.,Neutral Observation
+179,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+180,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+181,DrugZ caused severe rashes in some participants.,Adverse Effect
+182,Data collection was completed over a six-month period.,Neutral Observation
+183,The study excluded patients with pre-existing conditions.,Neutral Observation
+184,The study excluded patients with pre-existing conditions.,Neutral Observation
+185,Participants were monitored every two weeks.,Neutral Observation
+186,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+187,The study excluded patients with pre-existing conditions.,Neutral Observation
+188,Patients were instructed to maintain a food diary.,Neutral Observation
+189,Patients were instructed to maintain a food diary.,Neutral Observation
+190,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+191,Participants were monitored every two weeks.,Neutral Observation
+192,Patients were instructed to maintain a food diary.,Neutral Observation
+193,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+194,The study excluded patients with pre-existing conditions.,Neutral Observation
+195,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+196,Patients were instructed to maintain a food diary.,Neutral Observation
+197,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+198,Data collection was completed over a six-month period.,Neutral Observation
+199,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+200,Participants were monitored every two weeks.,Neutral Observation
+201,Enrollment criteria included age and weight specifications.,Neutral Observation
+202,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+203,The study excluded patients with pre-existing conditions.,Neutral Observation
+204,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+205,Patients were instructed to maintain a food diary.,Neutral Observation
+206,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+207,Patients were instructed to maintain a food diary.,Neutral Observation
+208,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+209,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+210,Patients were instructed to maintain a food diary.,Neutral Observation
+211,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+212,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+213,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+214,Enrollment criteria included age and weight specifications.,Neutral Observation
+215,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+216,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+217,Patients were instructed to maintain a food diary.,Neutral Observation
+218,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+219,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+220,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+221,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+222,No significant side effects were observed during the trial.,Positive Outcome
+223,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+224,No significant side effects were observed during the trial.,Positive Outcome
+225,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+226,Participants were monitored every two weeks.,Neutral Observation
+227,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+228,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+229,The patient experienced nausea after taking DrugX.,Adverse Effect
+230,The study excluded patients with pre-existing conditions.,Neutral Observation
+231,DrugZ caused severe rashes in some participants.,Adverse Effect
+232,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+233,Participants were monitored every two weeks.,Neutral Observation
+234,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+235,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+236,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+237,The patient experienced nausea after taking DrugX.,Adverse Effect
+238,Data collection was completed over a six-month period.,Neutral Observation
+239,The patient experienced nausea after taking DrugX.,Adverse Effect
+240,No significant side effects were observed during the trial.,Positive Outcome
+241,Enrollment criteria included age and weight specifications.,Neutral Observation
+242,No significant side effects were observed during the trial.,Positive Outcome
+243,Participants were monitored every two weeks.,Neutral Observation
+244,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+245,The patient experienced nausea after taking DrugX.,Adverse Effect
+246,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+247,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+248,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+249,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+250,The study excluded patients with pre-existing conditions.,Neutral Observation
+251,The patient experienced nausea after taking DrugX.,Adverse Effect
+252,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+253,DrugZ caused severe rashes in some participants.,Adverse Effect
+254,Patients were instructed to maintain a food diary.,Neutral Observation
+255,DrugZ caused severe rashes in some participants.,Adverse Effect
+256,The patient experienced nausea after taking DrugX.,Adverse Effect
+257,Patients were instructed to maintain a food diary.,Neutral Observation
+258,The study excluded patients with pre-existing conditions.,Neutral Observation
+259,Patients were instructed to maintain a food diary.,Neutral Observation
+260,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+261,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+262,Data collection was completed over a six-month period.,Neutral Observation
+263,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+264,The patient experienced nausea after taking DrugX.,Adverse Effect
+265,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+266,DrugZ caused severe rashes in some participants.,Adverse Effect
+267,Patients were instructed to maintain a food diary.,Neutral Observation
+268,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+269,Data collection was completed over a six-month period.,Neutral Observation
+270,Enrollment criteria included age and weight specifications.,Neutral Observation
+271,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+272,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+273,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+274,The study excluded patients with pre-existing conditions.,Neutral Observation
+275,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+276,DrugZ caused severe rashes in some participants.,Adverse Effect
+277,DrugZ caused severe rashes in some participants.,Adverse Effect
+278,The patient experienced nausea after taking DrugX.,Adverse Effect
+279,The study excluded patients with pre-existing conditions.,Neutral Observation
+280,Enrollment criteria included age and weight specifications.,Neutral Observation
+281,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+282,The study excluded patients with pre-existing conditions.,Neutral Observation
+283,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+284,Patients were instructed to maintain a food diary.,Neutral Observation
+285,DrugZ caused severe rashes in some participants.,Adverse Effect
+286,Enrollment criteria included age and weight specifications.,Neutral Observation
+287,Enrollment criteria included age and weight specifications.,Neutral Observation
+288,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+289,Patients were instructed to maintain a food diary.,Neutral Observation
+290,No significant side effects were observed during the trial.,Positive Outcome
+291,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+292,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+293,Data collection was completed over a six-month period.,Neutral Observation
+294,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+295,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+296,The patient experienced nausea after taking DrugX.,Adverse Effect
+297,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+298,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+299,Enrollment criteria included age and weight specifications.,Neutral Observation
+300,Enrollment criteria included age and weight specifications.,Neutral Observation
+301,Patients were instructed to maintain a food diary.,Neutral Observation
+302,The study excluded patients with pre-existing conditions.,Neutral Observation
+303,Patients were instructed to maintain a food diary.,Neutral Observation
+304,The patient experienced nausea after taking DrugX.,Adverse Effect
+305,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+306,Patients were instructed to maintain a food diary.,Neutral Observation
+307,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+308,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+309,The patient experienced nausea after taking DrugX.,Adverse Effect
+310,The study excluded patients with pre-existing conditions.,Neutral Observation
+311,No significant side effects were observed during the trial.,Positive Outcome
+312,Patients were instructed to maintain a food diary.,Neutral Observation
+313,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+314,The study excluded patients with pre-existing conditions.,Neutral Observation
+315,The study excluded patients with pre-existing conditions.,Neutral Observation
+316,The study excluded patients with pre-existing conditions.,Neutral Observation
+317,No significant side effects were observed during the trial.,Positive Outcome
+318,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+319,The study excluded patients with pre-existing conditions.,Neutral Observation
+320,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+321,Participants were monitored every two weeks.,Neutral Observation
+322,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+323,Enrollment criteria included age and weight specifications.,Neutral Observation
+324,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+325,Patients were instructed to maintain a food diary.,Neutral Observation
+326,The study excluded patients with pre-existing conditions.,Neutral Observation
+327,Patients were instructed to maintain a food diary.,Neutral Observation
+328,No significant side effects were observed during the trial.,Positive Outcome
+329,The patient experienced nausea after taking DrugX.,Adverse Effect
+330,DrugZ caused severe rashes in some participants.,Adverse Effect
+331,Participants were monitored every two weeks.,Neutral Observation
+332,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+333,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+334,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+335,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+336,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+337,The patient experienced nausea after taking DrugX.,Adverse Effect
+338,Data collection was completed over a six-month period.,Neutral Observation
+339,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+340,Data collection was completed over a six-month period.,Neutral Observation
+341,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+342,Participants were monitored every two weeks.,Neutral Observation
+343,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+344,The patient experienced nausea after taking DrugX.,Adverse Effect
+345,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+346,Data collection was completed over a six-month period.,Neutral Observation
+347,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+348,Participants were monitored every two weeks.,Neutral Observation
+349,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+350,Participants were monitored every two weeks.,Neutral Observation
+351,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+352,No significant side effects were observed during the trial.,Positive Outcome
+353,Data collection was completed over a six-month period.,Neutral Observation
+354,Patients were instructed to maintain a food diary.,Neutral Observation
+355,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+356,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+357,Participants were monitored every two weeks.,Neutral Observation
+358,The study excluded patients with pre-existing conditions.,Neutral Observation
+359,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+360,Data collection was completed over a six-month period.,Neutral Observation
+361,Enrollment criteria included age and weight specifications.,Neutral Observation
+362,DrugZ caused severe rashes in some participants.,Adverse Effect
+363,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+364,No significant side effects were observed during the trial.,Positive Outcome
+365,The patient experienced nausea after taking DrugX.,Adverse Effect
+366,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+367,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+368,No significant side effects were observed during the trial.,Positive Outcome
+369,Enrollment criteria included age and weight specifications.,Neutral Observation
+370,Patients were instructed to maintain a food diary.,Neutral Observation
+371,DrugZ caused severe rashes in some participants.,Adverse Effect
+372,Enrollment criteria included age and weight specifications.,Neutral Observation
+373,No significant side effects were observed during the trial.,Positive Outcome
+374,The study excluded patients with pre-existing conditions.,Neutral Observation
+375,The patient experienced nausea after taking DrugX.,Adverse Effect
+376,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+377,Participants were monitored every two weeks.,Neutral Observation
+378,Patients were instructed to maintain a food diary.,Neutral Observation
+379,The study excluded patients with pre-existing conditions.,Neutral Observation
+380,DrugZ caused severe rashes in some participants.,Adverse Effect
+381,Patients were instructed to maintain a food diary.,Neutral Observation
+382,The study excluded patients with pre-existing conditions.,Neutral Observation
+383,Patients were instructed to maintain a food diary.,Neutral Observation
+384,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+385,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+386,DrugZ caused severe rashes in some participants.,Adverse Effect
+387,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+388,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+389,Patients were instructed to maintain a food diary.,Neutral Observation
+390,Patients were instructed to maintain a food diary.,Neutral Observation
+391,The patient experienced nausea after taking DrugX.,Adverse Effect
+392,Data collection was completed over a six-month period.,Neutral Observation
+393,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+394,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+395,The patient experienced nausea after taking DrugX.,Adverse Effect
+396,Participants were monitored every two weeks.,Neutral Observation
+397,The study excluded patients with pre-existing conditions.,Neutral Observation
+398,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+399,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+400,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+401,Patients were instructed to maintain a food diary.,Neutral Observation
+402,DrugZ caused severe rashes in some participants.,Adverse Effect
+403,Patients were instructed to maintain a food diary.,Neutral Observation
+404,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+405,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+406,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+407,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+408,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+409,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+410,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+411,Data collection was completed over a six-month period.,Neutral Observation
+412,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+413,The study excluded patients with pre-existing conditions.,Neutral Observation
+414,Patients were instructed to maintain a food diary.,Neutral Observation
+415,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+416,The patient experienced nausea after taking DrugX.,Adverse Effect
+417,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+418,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+419,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+420,Enrollment criteria included age and weight specifications.,Neutral Observation
+421,DrugZ caused severe rashes in some participants.,Adverse Effect
+422,Patients were instructed to maintain a food diary.,Neutral Observation
+423,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+424,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+425,Data collection was completed over a six-month period.,Neutral Observation
+426,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+427,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+428,Data collection was completed over a six-month period.,Neutral Observation
+429,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+430,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+431,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+432,DrugZ caused severe rashes in some participants.,Adverse Effect
+433,Data collection was completed over a six-month period.,Neutral Observation
+434,The patient experienced nausea after taking DrugX.,Adverse Effect
+435,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+436,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+437,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+438,Patients were instructed to maintain a food diary.,Neutral Observation
+439,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+440,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+441,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+442,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+443,Patients were instructed to maintain a food diary.,Neutral Observation
+444,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+445,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+446,Data collection was completed over a six-month period.,Neutral Observation
+447,The study excluded patients with pre-existing conditions.,Neutral Observation
+448,Data collection was completed over a six-month period.,Neutral Observation
+449,DrugZ caused severe rashes in some participants.,Adverse Effect
+450,No significant side effects were observed during the trial.,Positive Outcome
+451,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+452,No significant side effects were observed during the trial.,Positive Outcome
+453,DrugZ caused severe rashes in some participants.,Adverse Effect
+454,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+455,Patients were instructed to maintain a food diary.,Neutral Observation
+456,Patients were instructed to maintain a food diary.,Neutral Observation
+457,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+458,The study excluded patients with pre-existing conditions.,Neutral Observation
+459,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+460,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+461,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+462,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+463,The study excluded patients with pre-existing conditions.,Neutral Observation
+464,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+465,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+466,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+467,Data collection was completed over a six-month period.,Neutral Observation
+468,Enrollment criteria included age and weight specifications.,Neutral Observation
+469,The study excluded patients with pre-existing conditions.,Neutral Observation
+470,The patient experienced nausea after taking DrugX.,Adverse Effect
+471,Enrollment criteria included age and weight specifications.,Neutral Observation
+472,DrugZ caused severe rashes in some participants.,Adverse Effect
+473,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+474,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+475,Participants were monitored every two weeks.,Neutral Observation
+476,DrugZ caused severe rashes in some participants.,Adverse Effect
+477,Enrollment criteria included age and weight specifications.,Neutral Observation
+478,No significant side effects were observed during the trial.,Positive Outcome
+479,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+480,The patient experienced nausea after taking DrugX.,Adverse Effect
+481,The study excluded patients with pre-existing conditions.,Neutral Observation
+482,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+483,The patient experienced nausea after taking DrugX.,Adverse Effect
+484,No significant side effects were observed during the trial.,Positive Outcome
+485,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+486,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+487,The study excluded patients with pre-existing conditions.,Neutral Observation
+488,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+489,The patient experienced nausea after taking DrugX.,Adverse Effect
+490,DrugZ caused severe rashes in some participants.,Adverse Effect
+491,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+492,Data collection was completed over a six-month period.,Neutral Observation
+493,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+494,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+495,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+496,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+497,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+498,The study excluded patients with pre-existing conditions.,Neutral Observation
+499,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+500,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+501,Participants were monitored every two weeks.,Neutral Observation
+502,DrugZ caused severe rashes in some participants.,Adverse Effect
+503,Participants were monitored every two weeks.,Neutral Observation
+504,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+505,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+506,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+507,No significant side effects were observed during the trial.,Positive Outcome
+508,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+509,Participants were monitored every two weeks.,Neutral Observation
+510,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+511,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+512,The patient experienced nausea after taking DrugX.,Adverse Effect
+513,Participants were monitored every two weeks.,Neutral Observation
+514,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+515,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+516,Data collection was completed over a six-month period.,Neutral Observation
+517,Data collection was completed over a six-month period.,Neutral Observation
+518,The patient experienced nausea after taking DrugX.,Adverse Effect
+519,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+520,The patient experienced nausea after taking DrugX.,Adverse Effect
+521,The study excluded patients with pre-existing conditions.,Neutral Observation
+522,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+523,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+524,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+525,Enrollment criteria included age and weight specifications.,Neutral Observation
+526,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+527,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+528,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+529,The study excluded patients with pre-existing conditions.,Neutral Observation
+530,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+531,DrugZ caused severe rashes in some participants.,Adverse Effect
+532,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+533,No significant side effects were observed during the trial.,Positive Outcome
+534,Data collection was completed over a six-month period.,Neutral Observation
+535,Data collection was completed over a six-month period.,Neutral Observation
+536,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+537,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+538,Participants were monitored every two weeks.,Neutral Observation
+539,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+540,DrugZ caused severe rashes in some participants.,Adverse Effect
+541,Enrollment criteria included age and weight specifications.,Neutral Observation
+542,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+543,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+544,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+545,The study excluded patients with pre-existing conditions.,Neutral Observation
+546,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+547,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+548,The patient experienced nausea after taking DrugX.,Adverse Effect
+549,Enrollment criteria included age and weight specifications.,Neutral Observation
+550,The study excluded patients with pre-existing conditions.,Neutral Observation
+551,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+552,Patients were instructed to maintain a food diary.,Neutral Observation
+553,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+554,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+555,Enrollment criteria included age and weight specifications.,Neutral Observation
+556,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+557,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+558,Patients were instructed to maintain a food diary.,Neutral Observation
+559,DrugZ caused severe rashes in some participants.,Adverse Effect
+560,Enrollment criteria included age and weight specifications.,Neutral Observation
+561,Participants were monitored every two weeks.,Neutral Observation
+562,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+563,Participants were monitored every two weeks.,Neutral Observation
+564,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+565,The study excluded patients with pre-existing conditions.,Neutral Observation
+566,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+567,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+568,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+569,No significant side effects were observed during the trial.,Positive Outcome
+570,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+571,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+572,Participants were monitored every two weeks.,Neutral Observation
+573,The study excluded patients with pre-existing conditions.,Neutral Observation
+574,The study excluded patients with pre-existing conditions.,Neutral Observation
+575,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+576,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+577,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+578,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+579,DrugZ caused severe rashes in some participants.,Adverse Effect
+580,The study excluded patients with pre-existing conditions.,Neutral Observation
+581,Participants were monitored every two weeks.,Neutral Observation
+582,Patients were instructed to maintain a food diary.,Neutral Observation
+583,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+584,The study excluded patients with pre-existing conditions.,Neutral Observation
+585,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+586,DrugZ caused severe rashes in some participants.,Adverse Effect
+587,Enrollment criteria included age and weight specifications.,Neutral Observation
+588,The patient experienced nausea after taking DrugX.,Adverse Effect
+589,Patients were instructed to maintain a food diary.,Neutral Observation
+590,DrugZ caused severe rashes in some participants.,Adverse Effect
+591,Enrollment criteria included age and weight specifications.,Neutral Observation
+592,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+593,The patient experienced nausea after taking DrugX.,Adverse Effect
+594,No significant side effects were observed during the trial.,Positive Outcome
+595,DrugZ caused severe rashes in some participants.,Adverse Effect
+596,Enrollment criteria included age and weight specifications.,Neutral Observation
+597,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+598,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+599,The patient experienced nausea after taking DrugX.,Adverse Effect
+600,Data collection was completed over a six-month period.,Neutral Observation
+601,Patients were instructed to maintain a food diary.,Neutral Observation
+602,Patients were instructed to maintain a food diary.,Neutral Observation
+603,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+604,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+605,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+606,Enrollment criteria included age and weight specifications.,Neutral Observation
+607,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+608,Data collection was completed over a six-month period.,Neutral Observation
+609,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+610,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+611,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+612,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+613,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+614,The patient experienced nausea after taking DrugX.,Adverse Effect
+615,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+616,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+617,Enrollment criteria included age and weight specifications.,Neutral Observation
+618,Data collection was completed over a six-month period.,Neutral Observation
+619,Participants were monitored every two weeks.,Neutral Observation
+620,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+621,Patients were instructed to maintain a food diary.,Neutral Observation
+622,No significant side effects were observed during the trial.,Positive Outcome
+623,Participants were monitored every two weeks.,Neutral Observation
+624,Participants were monitored every two weeks.,Neutral Observation
+625,No significant side effects were observed during the trial.,Positive Outcome
+626,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+627,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+628,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+629,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+630,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+631,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+632,Enrollment criteria included age and weight specifications.,Neutral Observation
+633,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+634,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+635,Enrollment criteria included age and weight specifications.,Neutral Observation
+636,No significant side effects were observed during the trial.,Positive Outcome
+637,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+638,DrugZ caused severe rashes in some participants.,Adverse Effect
+639,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+640,Enrollment criteria included age and weight specifications.,Neutral Observation
+641,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+642,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+643,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+644,DrugZ caused severe rashes in some participants.,Adverse Effect
+645,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+646,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+647,No significant side effects were observed during the trial.,Positive Outcome
+648,Enrollment criteria included age and weight specifications.,Neutral Observation
+649,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+650,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+651,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+652,DrugZ caused severe rashes in some participants.,Adverse Effect
+653,The patient experienced nausea after taking DrugX.,Adverse Effect
+654,Patients were instructed to maintain a food diary.,Neutral Observation
+655,The patient experienced nausea after taking DrugX.,Adverse Effect
+656,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+657,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+658,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+659,No significant side effects were observed during the trial.,Positive Outcome
+660,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+661,DrugZ caused severe rashes in some participants.,Adverse Effect
+662,The study excluded patients with pre-existing conditions.,Neutral Observation
+663,The study excluded patients with pre-existing conditions.,Neutral Observation
+664,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+665,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+666,Data collection was completed over a six-month period.,Neutral Observation
+667,The study excluded patients with pre-existing conditions.,Neutral Observation
+668,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+669,No significant side effects were observed during the trial.,Positive Outcome
+670,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+671,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+672,DrugZ caused severe rashes in some participants.,Adverse Effect
+673,DrugZ caused severe rashes in some participants.,Adverse Effect
+674,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+675,The study excluded patients with pre-existing conditions.,Neutral Observation
+676,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+677,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+678,Participants were monitored every two weeks.,Neutral Observation
+679,No significant side effects were observed during the trial.,Positive Outcome
+680,Data collection was completed over a six-month period.,Neutral Observation
+681,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+682,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+683,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+684,DrugZ caused severe rashes in some participants.,Adverse Effect
+685,Patients were instructed to maintain a food diary.,Neutral Observation
+686,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+687,DrugZ caused severe rashes in some participants.,Adverse Effect
+688,DrugZ caused severe rashes in some participants.,Adverse Effect
+689,DrugZ caused severe rashes in some participants.,Adverse Effect
+690,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+691,The study excluded patients with pre-existing conditions.,Neutral Observation
+692,The study excluded patients with pre-existing conditions.,Neutral Observation
+693,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+694,The study excluded patients with pre-existing conditions.,Neutral Observation
+695,The study excluded patients with pre-existing conditions.,Neutral Observation
+696,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+697,Patients were instructed to maintain a food diary.,Neutral Observation
+698,The study excluded patients with pre-existing conditions.,Neutral Observation
+699,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+700,DrugZ caused severe rashes in some participants.,Adverse Effect
+701,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+702,Patients were instructed to maintain a food diary.,Neutral Observation
+703,Patients were instructed to maintain a food diary.,Neutral Observation
+704,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+705,DrugZ caused severe rashes in some participants.,Adverse Effect
+706,DrugZ caused severe rashes in some participants.,Adverse Effect
+707,The patient experienced nausea after taking DrugX.,Adverse Effect
+708,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+709,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+710,The patient experienced nausea after taking DrugX.,Adverse Effect
+711,Patients were instructed to maintain a food diary.,Neutral Observation
+712,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+713,Data collection was completed over a six-month period.,Neutral Observation
+714,The study excluded patients with pre-existing conditions.,Neutral Observation
+715,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+716,The study excluded patients with pre-existing conditions.,Neutral Observation
+717,Participants were monitored every two weeks.,Neutral Observation
+718,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+719,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+720,Enrollment criteria included age and weight specifications.,Neutral Observation
+721,The study excluded patients with pre-existing conditions.,Neutral Observation
+722,The study excluded patients with pre-existing conditions.,Neutral Observation
+723,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+724,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+725,Enrollment criteria included age and weight specifications.,Neutral Observation
+726,Enrollment criteria included age and weight specifications.,Neutral Observation
+727,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+728,No significant side effects were observed during the trial.,Positive Outcome
+729,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+730,Enrollment criteria included age and weight specifications.,Neutral Observation
+731,No significant side effects were observed during the trial.,Positive Outcome
+732,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+733,The patient experienced nausea after taking DrugX.,Adverse Effect
+734,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+735,The patient experienced nausea after taking DrugX.,Adverse Effect
+736,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+737,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+738,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+739,Patients were instructed to maintain a food diary.,Neutral Observation
+740,DrugZ caused severe rashes in some participants.,Adverse Effect
+741,Patients were instructed to maintain a food diary.,Neutral Observation
+742,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+743,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+744,No significant side effects were observed during the trial.,Positive Outcome
+745,No significant side effects were observed during the trial.,Positive Outcome
+746,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+747,DrugZ caused severe rashes in some participants.,Adverse Effect
+748,The study excluded patients with pre-existing conditions.,Neutral Observation
+749,DrugZ caused severe rashes in some participants.,Adverse Effect
+750,The study excluded patients with pre-existing conditions.,Neutral Observation
+751,Participants were monitored every two weeks.,Neutral Observation
+752,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+753,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+754,Enrollment criteria included age and weight specifications.,Neutral Observation
+755,Enrollment criteria included age and weight specifications.,Neutral Observation
+756,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+757,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+758,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+759,Participants were monitored every two weeks.,Neutral Observation
+760,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+761,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+762,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+763,Enrollment criteria included age and weight specifications.,Neutral Observation
+764,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+765,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+766,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+767,Data collection was completed over a six-month period.,Neutral Observation
+768,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+769,Patients were instructed to maintain a food diary.,Neutral Observation
+770,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+771,DrugZ caused severe rashes in some participants.,Adverse Effect
+772,No significant side effects were observed during the trial.,Positive Outcome
+773,Patients were instructed to maintain a food diary.,Neutral Observation
+774,Participants were monitored every two weeks.,Neutral Observation
+775,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+776,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+777,Participants were monitored every two weeks.,Neutral Observation
+778,Patients were instructed to maintain a food diary.,Neutral Observation
+779,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+780,Participants were monitored every two weeks.,Neutral Observation
+781,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+782,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+783,DrugZ caused severe rashes in some participants.,Adverse Effect
+784,Data collection was completed over a six-month period.,Neutral Observation
+785,Patients were instructed to maintain a food diary.,Neutral Observation
+786,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+787,Participants were monitored every two weeks.,Neutral Observation
+788,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+789,The study excluded patients with pre-existing conditions.,Neutral Observation
+790,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+791,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+792,Participants were monitored every two weeks.,Neutral Observation
+793,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+794,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+795,DrugZ caused severe rashes in some participants.,Adverse Effect
+796,Patients were instructed to maintain a food diary.,Neutral Observation
+797,Patients were instructed to maintain a food diary.,Neutral Observation
+798,No significant side effects were observed during the trial.,Positive Outcome
+799,The patient experienced nausea after taking DrugX.,Adverse Effect
+800,The patient experienced nausea after taking DrugX.,Adverse Effect
+801,The study excluded patients with pre-existing conditions.,Neutral Observation
+802,Participants were monitored every two weeks.,Neutral Observation
+803,Patients were instructed to maintain a food diary.,Neutral Observation
+804,Data collection was completed over a six-month period.,Neutral Observation
+805,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+806,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+807,Enrollment criteria included age and weight specifications.,Neutral Observation
+808,The study excluded patients with pre-existing conditions.,Neutral Observation
+809,Enrollment criteria included age and weight specifications.,Neutral Observation
+810,No significant side effects were observed during the trial.,Positive Outcome
+811,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+812,Data collection was completed over a six-month period.,Neutral Observation
+813,The study excluded patients with pre-existing conditions.,Neutral Observation
+814,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+815,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+816,The patient experienced nausea after taking DrugX.,Adverse Effect
+817,DrugZ caused severe rashes in some participants.,Adverse Effect
+818,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+819,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+820,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+821,Data collection was completed over a six-month period.,Neutral Observation
+822,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+823,The patient experienced nausea after taking DrugX.,Adverse Effect
+824,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+825,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+826,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+827,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+828,Participants were monitored every two weeks.,Neutral Observation
+829,Enrollment criteria included age and weight specifications.,Neutral Observation
+830,The patient experienced nausea after taking DrugX.,Adverse Effect
+831,DrugZ caused severe rashes in some participants.,Adverse Effect
+832,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+833,Participants were monitored every two weeks.,Neutral Observation
+834,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+835,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+836,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+837,Participants were monitored every two weeks.,Neutral Observation
+838,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+839,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+840,No significant side effects were observed during the trial.,Positive Outcome
+841,The patient experienced nausea after taking DrugX.,Adverse Effect
+842,Data collection was completed over a six-month period.,Neutral Observation
+843,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+844,No significant side effects were observed during the trial.,Positive Outcome
+845,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+846,DrugZ caused severe rashes in some participants.,Adverse Effect
+847,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+848,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+849,DrugZ caused severe rashes in some participants.,Adverse Effect
+850,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+851,Data collection was completed over a six-month period.,Neutral Observation
+852,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+853,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+854,Enrollment criteria included age and weight specifications.,Neutral Observation
+855,Participants were monitored every two weeks.,Neutral Observation
+856,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+857,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+858,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+859,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+860,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+861,Data collection was completed over a six-month period.,Neutral Observation
+862,No significant side effects were observed during the trial.,Positive Outcome
+863,Patients were instructed to maintain a food diary.,Neutral Observation
+864,No significant side effects were observed during the trial.,Positive Outcome
+865,No significant side effects were observed during the trial.,Positive Outcome
+866,Enrollment criteria included age and weight specifications.,Neutral Observation
+867,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+868,Participants were monitored every two weeks.,Neutral Observation
+869,No significant side effects were observed during the trial.,Positive Outcome
+870,Enrollment criteria included age and weight specifications.,Neutral Observation
+871,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+872,Enrollment criteria included age and weight specifications.,Neutral Observation
+873,Patients were instructed to maintain a food diary.,Neutral Observation
+874,No significant side effects were observed during the trial.,Positive Outcome
+875,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+876,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+877,Enrollment criteria included age and weight specifications.,Neutral Observation
+878,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+879,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+880,Participants were monitored every two weeks.,Neutral Observation
+881,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+882,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+883,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+884,DrugZ caused severe rashes in some participants.,Adverse Effect
+885,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+886,No significant side effects were observed during the trial.,Positive Outcome
+887,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+888,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+889,No significant side effects were observed during the trial.,Positive Outcome
+890,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+891,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+892,No significant side effects were observed during the trial.,Positive Outcome
+893,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+894,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+895,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+896,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+897,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+898,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+899,Participants were monitored every two weeks.,Neutral Observation
+900,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+901,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+902,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+903,Patients were instructed to maintain a food diary.,Neutral Observation
+904,The patient experienced nausea after taking DrugX.,Adverse Effect
+905,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+906,Patients were instructed to maintain a food diary.,Neutral Observation
+907,Patients were instructed to maintain a food diary.,Neutral Observation
+908,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+909,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+910,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+911,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+912,DrugZ caused severe rashes in some participants.,Adverse Effect
+913,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+914,Data collection was completed over a six-month period.,Neutral Observation
+915,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+916,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+917,Data collection was completed over a six-month period.,Neutral Observation
+918,DrugZ caused severe rashes in some participants.,Adverse Effect
+919,The study excluded patients with pre-existing conditions.,Neutral Observation
+920,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+921,No significant side effects were observed during the trial.,Positive Outcome
+922,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+923,DrugZ caused severe rashes in some participants.,Adverse Effect
+924,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+925,No significant side effects were observed during the trial.,Positive Outcome
+926,Enrollment criteria included age and weight specifications.,Neutral Observation
+927,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+928,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+929,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+930,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+931,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+932,DrugZ caused severe rashes in some participants.,Adverse Effect
+933,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+934,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+935,No significant side effects were observed during the trial.,Positive Outcome
+936,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+937,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+938,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+939,DrugZ caused severe rashes in some participants.,Adverse Effect
+940,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+941,No significant side effects were observed during the trial.,Positive Outcome
+942,DrugZ caused severe rashes in some participants.,Adverse Effect
+943,Patients were instructed to maintain a food diary.,Neutral Observation
+944,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+945,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+946,The study excluded patients with pre-existing conditions.,Neutral Observation
+947,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+948,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+949,No significant side effects were observed during the trial.,Positive Outcome
+950,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+951,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+952,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+953,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+954,Patients were instructed to maintain a food diary.,Neutral Observation
+955,Data collection was completed over a six-month period.,Neutral Observation
+956,Participants were monitored every two weeks.,Neutral Observation
+957,Patients were instructed to maintain a food diary.,Neutral Observation
+958,Patients were instructed to maintain a food diary.,Neutral Observation
+959,Data collection was completed over a six-month period.,Neutral Observation
+960,The treatment resulted in full remission for the majority of patients.,Positive Outcome
+961,The study excluded patients with pre-existing conditions.,Neutral Observation
+962,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+963,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+964,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+965,No significant side effects were observed during the trial.,Positive Outcome
+966,Mild headaches were reported after the second dose of DrugY.,Adverse Effect
+967,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+968,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+969,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+970,The patient experienced nausea after taking DrugX.,Adverse Effect
+971,Participants showed improved lung function after therapy with DrugC.,Positive Outcome
+972,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+973,Patients were instructed to maintain a food diary.,Neutral Observation
+974,No significant side effects were observed during the trial.,Positive Outcome
+975,Patients were instructed to maintain a food diary.,Neutral Observation
+976,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+977,DrugZ caused severe rashes in some participants.,Adverse Effect
+978,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+979,The study excluded patients with pre-existing conditions.,Neutral Observation
+980,The patient experienced nausea after taking DrugX.,Adverse Effect
+981,No significant side effects were observed during the trial.,Positive Outcome
+982,Patients were instructed to maintain a food diary.,Neutral Observation
+983,The study excluded patients with pre-existing conditions.,Neutral Observation
+984,Patients were instructed to maintain a food diary.,Neutral Observation
+985,Patients experienced enhanced mobility after using DrugD.,Positive Outcome
+986,No significant side effects were observed during the trial.,Positive Outcome
+987,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+988,Increased liver enzymes were noted post-treatment with DrugA.,Adverse Effect
+989,No significant side effects were observed during the trial.,Positive Outcome
+990,Patients were instructed to maintain a food diary.,Neutral Observation
+991,Participants were monitored every two weeks.,Neutral Observation
+992,Severe allergic reactions were observed following DrugB administration.,Adverse Effect
+993,Patients were instructed to maintain a food diary.,Neutral Observation
+994,Patients were instructed to maintain a food diary.,Neutral Observation
+995,Enrollment criteria included age and weight specifications.,Neutral Observation
+996,DrugZ caused severe rashes in some participants.,Adverse Effect
+997,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+998,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+999,Marked improvement in blood pressure control was achieved with DrugE.,Positive Outcome
+1000,Participants were monitored every two weeks.,Neutral Observation

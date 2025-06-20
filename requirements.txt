@@ -1,0 +1,13 @@
+pandas
+# had to install with --user
+tf-keras
+scikit-learn
+transformers
+torch
+torchvision
+torchaudio
+datasets
+wandb
+matplotlib
+seaborn
+accelerate
