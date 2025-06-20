@@ -4,17 +4,6 @@ https://absorbing-action-f33.notion.site/Classification-NER-Model-1e3094bc1d7580
 
 ### Setup instructions
 
-#### Google Colab
-
-The instructions allow you to run the code on any device in your browser. Cell 2 provides specifications to allow you to run on your local CPU or GPU as sepcified in the [Requirements](https://absorbing-action-f33.notion.site/Classification-NER-Model-1e3094bc1d758025b726ce8554651b3b).
-
-1. Download the notebook and upload to Google Drive. Open the notebook in Google Colab.
-2. Upload `classification_data.csv` to the same location you uploaded the notebook
-3. In cell 1, replace the `wandb_api_key` with your own wandb_api_key. You can create an account [here](https://wandb.auth0.com/login?state=hKFo2SBjUGhKeVlOOGZZb2FqYnpoYnpvNjZoV0Z3Mi1MWjVqdaFupWxvZ2luo3RpZNkgUHJxcmtOVTVmd0JpcFZka0pPbEhmLTNSZHRocF9GcXWjY2lk2SBWU001N1VDd1Q5d2JHU3hLdEVER1FISUtBQkhwcHpJdw&client=VSM57UCwT9wbGSxKtEDGQHIKABHppzIw&protocol=oauth2&nonce=al9iVVBiWi01X0U2V2ZmVg%3D%3D&redirect_uri=https%3A%2F%2Fapi.wandb.ai%2Foidc%2Fcallback&response_mode=form_post&response_type=id_token&scope=openid%20profile%20email)
-4. In cell 3, update the `file_path_drive` with the location of your `classification_data.csv`
-5. Click Runtime > Run all (Ctrl+F9)  
-   ![Runtime > Run all (Ctrl+F9)](./assets/image-13.png)
-
 #### Local Windows
 
 1. Run the following in your terminal as an Administrator if you don't have LongPathsEnabled
@@ -24,7 +13,8 @@ New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name
 ```
 
 2. Run `python -m pip install -r requirements.txt`
-3. Run the notebook: `Aten_Classifier_v2_1.ipynb`
+3. In cell 1, replace the `wandb_api_key` with your own wandb_api_key. You can create an account [here](https://wandb.auth0.com/login?state=hKFo2SBjUGhKeVlOOGZZb2FqYnpoYnpvNjZoV0Z3Mi1MWjVqdaFupWxvZ2luo3RpZNkgUHJxcmtOVTVmd0JpcFZka0pPbEhmLTNSZHRocF9GcXWjY2lk2SBWU001N1VDd1Q5d2JHU3hLdEVER1FISUtBQkhwcHpJdw&client=VSM57UCwT9wbGSxKtEDGQHIKABHppzIw&protocol=oauth2&nonce=al9iVVBiWi01X0U2V2ZmVg%3D%3D&redirect_uri=https%3A%2F%2Fapi.wandb.ai%2Foidc%2Fcallback&response_mode=form_post&response_type=id_token&scope=openid%20profile%20email)
+4. Run the notebook: `Aten_Classifier_v2_1.ipynb`
 
 ### Brief description of your approach
 
